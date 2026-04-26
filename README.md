@@ -2,7 +2,7 @@
 
 Full-stack real-time delivery tracking app with:
 
-- `client`: React + Vite + TypeScript + Tailwind + Zustand + React Query + Mapbox + Framer Motion
+- `client`: React + Vite + TypeScript + Tailwind + Zustand + React Query + OpenStreetMap (Leaflet) + Framer Motion
 - `server`: Node.js + Express + TypeScript + WebSocket (`ws`)
 
 ## Run locally
